@@ -1,4 +1,4 @@
-# Cyberna
+# N3R
 Morocco’s public smishing (SMS phishing) intel project
 **Unmasking SMS scams. Protecting Moroccan users. Built for the future.**
 
