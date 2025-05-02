@@ -27,7 +27,7 @@ This domain mimics CIH Bank using a `.com` TLD and a typo ("banke"). Even though
 ## Actions Taken
 - Investigated with Whois, URLScan, PhishTank  
 - Submitted to PhishTank  
-- Added report to Cyberna archive
+- Added report to N3R archive
 
 ---
 
